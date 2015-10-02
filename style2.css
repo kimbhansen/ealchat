@@ -1,0 +1,259 @@
+body{
+	background-color: #7cbfb7;
+}
+
+.loginholder
+{
+	background-color: #ffffff;
+	width: 500px;
+	border-radius: 25px;
+}
+
+.spacer
+{
+	clear:both;
+}
+
+.log
+{
+	margin-top: 55px;
+	margin-bottom: 25px;
+	display:block;
+	background-image: url(img/logo2.png);
+	width: 222px;
+	height: 191px;
+}
+
+.login_input
+{
+	border:0px;
+	border-radius: 5px;
+	width: 180px;
+	height: 28px;
+	background-color: #7cbfb7;
+	font-size:15px;
+	color: #ffffff;
+	
+}
+
+.err
+{
+	color: #d03772;
+}
+
+.loginholder label
+{
+	font-size:14px;
+	color: #7cbfb7;
+	font-weight:999;
+}
+
+.sub1, .sub2
+{
+	border:1px solid #48a89d;
+	border-radius: 5px;
+	width: 80px;
+	height: 28px;
+	background-color: #7cbfb7;
+	cursor:pointer;
+	color: #ffffff;
+	font-size:15px;
+}
+
+.sub1:hover, .sub2:hover
+{
+		background-color: #ffffff;
+		color: #7cbfb7;	
+}
+
+.links
+{
+	color: #ffffff;
+}
+
+a
+{
+	color: #ffffff;
+	font-size:15px;
+	text-decoration:none;
+}
+
+a:hover
+{
+	color: #d03772;
+	font-size:15px;
+}
+
+h2
+{
+	border:0px;
+	padding:15px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
+	font-size:16px;
+	color: #7cbfb7;
+}
+
+.container
+{
+	background-color: #ffffff;
+	border-radius: 25px;
+	width: 922px;
+}
+
+
+
+/*-----------------------RIGHT-----------------------*/
+
+.content_right
+{
+	border: 1px solid red;
+	width: 600px;
+	float:left;
+	border-radius: 8px;
+}
+
+.members
+{
+	border: 1px solid #7cbfb7;
+	width: 600px;
+	float:left;
+	border-radius: 8px;
+	height: 86px;
+	overflow:hidden;
+}
+
+/*-----------------------StatusBAR-----------------------*/
+
+
+
+/*-----------------------LEFT-----------------------*/
+
+
+
+.statuso
+{
+	color: #d03772;
+	font-size: 12px;
+}
+
+.userprofile
+{
+	color: #d03772;
+	font-size: 12px;
+	float:left;
+	border-radius: 8px;
+	border:1px solid #7cbfb7;
+	margin:0px 0px 0px 15px;
+}
+
+.userprofile a
+{
+	color: #d03772;
+	font-size: 12px;
+}
+
+.styled-select select {
+   background: transparent;
+   width: 268px;
+   padding: 5px;
+   font-size: 15px;
+   line-height: 1;
+   border: 0;
+   border-radius: 0;
+   height: 34px;
+   -webkit-appearance: none;
+   }
+
+.styled-select 
+{	
+   width: 251px;
+   height: 32px;
+   overflow: hidden;
+   background: url(img/scroll.png) no-repeat right #fff;
+   border: 1px solid #7cbfb7;
+   border-radius: 8px;
+ }
+   
+ .name
+{
+	color: #7cbfb7;
+}
+
+.addo
+{
+	display:block;
+	background-image: url(img/addo.png);
+	width: 20px;
+	height: 20px;
+}
+
+.add
+{
+	display:block;
+	background-image: url(img/add2.png);
+	width: 20px;
+	height: 20px;
+}
+
+.add:hover
+{
+	background-image: url(img/add.png);
+}
+
+.userlist img{
+	border-radius: 8px;
+	cursor:pointer;
+}
+
+.name{
+	font-size:13px;
+}
+
+.userlist img:hover {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+.userlist {
+    
+}  
+
+.status{
+	color: #adc822;
+	font-size: 12px;
+}
+
+.content_left
+{
+	width: 280px;
+	float:left;
+	margin:0px 0px 0px 20px;
+	
+}
+   
+/* kims css */
+#chatbox{
+	width: 400px;
+	height: 400px;
+	background-color: white;
+	margin: auto;
+	position: relative;
+	top: 15px;
+	clear: both;
+}
+#message input[type=text]{
+	width: 300px;
+	margin-top: 45px;
+}
+p{
+	padding-left: 10px;
+	border-bottom: solid black 1px;
+	margin-top: -15px;
+}
+p:first-child{
+	padding-top: 20px;
+}
+
+
+
+
